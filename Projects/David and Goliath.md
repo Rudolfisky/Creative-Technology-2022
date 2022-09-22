@@ -36,4 +36,4 @@ And last but definitely not least, putting everything together.
 ![combining box and hardware](/Media/combining%20box%20and%20hardware.gif)<br/>
 
 # Retrospect
-in hindsight I must admit that I didn't know what I could realize in a weeks time. That being said, I'm really glad I got a chance to give it my all and make something the way I wanted it to. I believe, that given more time, I should have been able to also finish David(the smaller box) and finish the project completely. but I'm still really happy I got focus on prototyping, thinking of wacky ideas and making the existing results look presentable.
+in hindsight I must admit that I didn't know what I could realize in a weeks time. That being said, I'm really glad I got a chance to give it my all and work on project with dedication and perseverance. I believe, that given more time, I should have been able to also finish David(the smaller box) and finish the project completely. but I'm still really happy I got to focus on prototyping, thinking of wacky ideas and making the existing results look presentable.
