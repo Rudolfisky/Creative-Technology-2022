@@ -1,4 +1,4 @@
-![David and Goliath cover](/Media\DAVID-AND-GOLIATH-COVER.jpg)
+![David and Goliath cover](/Media/DAVID-AND-GOLIATH-COVER.jpg)
 
 # David and Goliath (super useless box+ deluxe)
 This project was made for the personal project period of my semester. The Concept consists of a set of useless boxes that interact with each other via a switch. One box would be bigger (Goliath) and one would be smaller (David)
