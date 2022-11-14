@@ -83,9 +83,7 @@ During my next project I will be sure to focus more on communication within the 
 # Conclusion
 I would say this project had both success and failures.
 
-**Success** in the sense that the projects impact was successfully had in our final demo (
-[read more on that here](https://github.com/Rudolfisky/ALND/blob/main/Presentation.md)
-).<br/> 
+**Success** in the sense that the projects impact was successfully had in our final demo.<br/> 
 The people that saw our product, demo, and presentational posters were questioning the use of our technology and automation as a whole (which is good).
 
 **Less successful** were our working ethics as a group/partnership and my personal tunnel vision on the shooting mechanism.
