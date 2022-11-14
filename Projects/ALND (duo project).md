@@ -42,19 +42,43 @@ I pretty much worked on a piece of wood making my work seem like arts and crafts
 If I could do things differently, would divert my focus on other components, like the ones mentioned earlier
 
 ## Presentation
+![Presentation](https://github.com/Rudolfisky/ALND/raw/main/Media/Demo/Demo%20setup%201.jpg)
+
 My partner focused on the media aspect of this project.<br/> 
 He made both the poster, presentational plaques, and artwork for the final demo.<br/> 
 Together we presented our project like a serious product and focused on creating our desired impact.
 
-[Here is a report on the presentational demo](../../ALND/Presentation.md)
+[Here is a report on the presentational demo](https://github.com/Rudolfisky/ALND/blob/main/Presentation.md)
 
 # Partnership
-- near no communication in general or on onsite availability
-- working alone most of the time
-- excuses for not showing up seemed endless
+ne of the main problems plaguing this project was my tunnel vision.<br/> 
+The other problem was linked to the duo aspect of the project.<br/> 
 
-One of the main problems plaguing this project was my tunnel vision.<br/> 
-The other 
+The core problem we had was bad communication.<br/> 
+At the start of the project, everything seemed fine, but as time progressed we started communicating less and less.
+
+When we had to present our concepts to the teachers and other students, not only did he not show, he told me halfway throughout the day that he was not going to make it because he was still in Amsterdam.<br/> 
+
+After that he was sick for a week.<br/> 
+Being sick is not a crime, it's very human.<br/> 
+But it becomes a problem when you don't communicate this with your partner.<br/> 
+
+After this it seemed really clear to that we both had different working ethics.<br/> 
+I really wanted to work onsite because I feel more motivated onsite and I was working with the laser cuter a lot.<br/> 
+But my partner liked to work from home.<br/> 
+
+During this period we had almost no online communication.<br/> 
+This meant we had no idea what the other person was working on most of the time.<br/> 
+This ties into the fact that some documentation that my partner was supposed to do he uploaded last minute (couple of days before portfolio deadline).<br/> 
+That and he missed a couple of documents (Readme and UX design) which is had to update last minute.
+
+## In hindsight
+I feel like the following points sum it up quite well
+- Poor communication
+- Difference in locational preference
+
+This could've gone better if we decided to work more AGILE (standups) and communicate on a more daily basis.<br/> 
+During my next project I will be sure to focus more on communication within the team.
 
 # Conclusion
 I would say this project had both success and failures.
@@ -70,5 +94,10 @@ This project mostly felt like a longer personal then a duo project based on our 
 
 ## What to do differently 
 
-If I focused more on making a variety of prototypes I would've made more a technological impact.<br/>
-Combining this with better partnership arrangements would've made for a better project outcome.
+If I focused more on making a variety of prototypes I would've made more a technological focused impact.<br/>
+In order to achieve this I need to step back every once in a while to look at the bigger picture of the project and see where I'm headed.
+
+I will also focus on applying more AGILE methods into my group projects. Using methods like standups and sprints I can create better communication and an overall better experience for future projects.
+
+I should also Focus more on communication my progress with teachers.<br/> 
+Doing so will help steer me in the right direction when problems like tunnel vision or bad group communication occur.
