@@ -51,7 +51,7 @@ Together we presented our project like a serious product and focused on creating
 [Here is a report on the presentational demo](https://github.com/Rudolfisky/ALND/blob/main/Presentation.md)
 
 # Partnership
-ne of the main problems plaguing this project was my tunnel vision.<br/> 
+One of the main problems plaguing this project was my tunnel vision.<br/> 
 The other problem was linked to the duo aspect of the project.<br/> 
 
 The core problem we had was bad communication.<br/> 
@@ -95,7 +95,8 @@ This project mostly felt like a longer personal then a duo project based on our 
 If I focused more on making a variety of prototypes I would've made more a technological focused impact.<br/>
 In order to achieve this I need to step back every once in a while to look at the bigger picture of the project and see where I'm headed.
 
-I will also focus on applying more AGILE methods into my group projects. Using methods like standups and sprints I can create better communication and an overall better experience for future projects.
+I will also focus on applying more AGILE methods into my group projects.<br/> 
+Using methods like standups and sprints I can create better communication and an overall better experience for future projects.
 
 I should also Focus more on communication my progress with teachers.<br/> 
 Doing so will help steer me in the right direction when problems like tunnel vision or bad group communication occur.
