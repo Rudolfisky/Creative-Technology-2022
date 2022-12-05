@@ -1,4 +1,6 @@
+[JUMBO IMAGE HERE]
 # Innovative in-store jumbo experience
+
 ## Process
 T.B.F. with a chronological approach to my project
 
