@@ -1,9 +1,9 @@
 # Innovative in-store jumbo experience
 ## Process
-
-T.B.F.
+T.B.F. with a chronological approach to my project
 
 ## Learning outcomes
+The things that directly impact my learning outcomes summed up.
 
 ### Vision
 *You express your own vision on future scenarios through research of the evolution of mankind’s relationship with technology.*
