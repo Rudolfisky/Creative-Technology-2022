@@ -4,13 +4,7 @@
 ## Process
 T.B.F. with a chronological approach to my project
 
-## Learning outcomes
-The things that directly impact my learning outcomes summed up.
-
-### Vision
-*You express your own vision on future scenarios through research of the evolution of mankind’s relationship with technology.*
-
-#### Process
+#START OLD VISION<br/>
 My personal vision has become more solid throughout this project. My 2 previous projects mainly focused on satirization of technologies or subjects (automation and laziness). This client project took a different turn however. Our client showed us some really cool current and past project they worked on. A lot of their project focused on creating interactive in-store experiences that either mimic online shopping features or creating completely new solutions. I really liked the potential of these projects and the results. The Interactive Porche experience is a really cool solution for instance. 
 
 ![Porche Interactive experience](../Media/Client%20Project/Porche%20IE.jpg)
@@ -23,8 +17,24 @@ This shift in direction didn't sit well with me however. Although I do understan
 
 Based on the feedback that we should focus more on jumbo's gains, we modified our [value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) to include more gains for the Jumbo (like upselling).
 
+## Learning outcomes
+The things that directly impact my learning outcomes summed up.
+
+### Vision
+*You express your own vision on future scenarios through research of the evolution of mankind’s relationship with technology.*
+
+#### Process
+My personal vision on this project, future, and product owner.
+
+This project we worked on creating a positive costumer in-store interactive experience whilst also adding value for the jumbo. I personally really love the idea of creating interactive in-store experiences that are either based on existing online store features or add a completely new experience that is only available in-store.
+
+![Porche Interactive experience](../Media/Client%20Project/Porche%20IE.jpg)
+
+This First Impression project shows of really well what I mean. I believe that stores could greatly profit from making an webstore activity, like customizing a car, one you could do in a physical store. Not only does this add value, but it will create more costumer-brand loyalty.
+
+In the future I hope to see many more interactive in-store empierces (and maybe even work on them). In an ideal world, each store would have interactive solutions to help the costumer select product like cars, pants or even perfume.
+
 #### Deliverables
-[value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
 
 
@@ -32,9 +42,9 @@ Based on the feedback that we should focus more on jumbo's gains, we modified ou
 *You discover and define an innovative concept using creative thinking techniques combined with research of technology, context and human.*
 
 #### Process
-![initial brainstorm](../Media/Client%20Project/initial%20brainstorm.jpg)
+![first brainstorm](../Media/Client%20Project/initial%20brainstorm.jpg)
 
-After our team's brainstorm session, we decided to look into certain technologies and themes that we could focus on during this project.
+After our team's first brainstorm session, we decided to look into certain technologies and themes that we could focus on during this project.
 
 Initially we focused on one specific impact:
 
@@ -53,6 +63,8 @@ Based on our concept we started to define questions we'd need answers to to stre
 Answers to these questions would not only strengthen our concept, but also prove to be useful for information gathering. After having done the "[What Technology should we use to implement our concept?](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)" research, Me and my group mates came together to discus our findings and define our requirements ([Defining our concept and impact](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)).
 
 #### Deliverables
+[value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+
 [Defining our concept and impact](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
 [What Technology should we use to implement our concept](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
