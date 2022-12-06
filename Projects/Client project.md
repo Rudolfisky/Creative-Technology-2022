@@ -32,11 +32,16 @@ Based on the feedback that we should focus more on jumbo's gains, we modified ou
 *You discover and define an innovative concept using creative thinking techniques combined with research of technology, context and human.*
 
 #### Process
-HOW DID WE GET OUR CONCEPT?
+![initial brainstorm](../Media/Client%20Project/initial%20brainstorm.jpg)
 
-DEFINING OUR ORIGINAL IMPACT
+After our team's brainstorm session, we decided to look into certain technologies and themes that we could focus on during this project.
 
-DOING RESEARCH BASED ON OUR IMPACT
+Initially we focused on one specific impact:
+
+*Create awareness for alternate ways of shopping for customers in store.*
+
+This Impact we'd attempt to achieve by recommending in-store shoppers products that are either more relevant to them then the ones they are thinking of buying, or by showing alternate products and their differences (cheaper, healthier, and or climate impact). After communicating this concept to the product owner and teacher, we got asked to focus on a specific target group, like Vegans.
+
 Based on our concept we started to define questions we'd need answers to to strengthen our concept. we decided to spend time on the following:
 
 - How can we personalize the in-store shopping experience?
