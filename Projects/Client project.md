@@ -1,8 +1,47 @@
 ![Jumbo banner](../Media/Client%20Project/jumbo%20banner.jpg)
 # Innovative in-store jumbo experience
 
+Simple intro to project
+
 ## Process
-T.B.F. with a chronological approach to my project
+
+This project started out with a lot of ideation. after brainstorming a bunch of different Technologies and idea's
+
+![first brainstorm](../Media/Client%20Project/initial%20brainstorm.jpg)
+
+After this initial brainstorm, we decided to do research on the following subjects:
+-   Navigation within jumbo
+-   Product recommendation 
+-   Gamification
+-   AR (Augmented Reality)
+
+After doing preliminary research on some of these subjects we focused on the recommendation concept and creating an impact surrounding the concept:
+
+*Create awareness for alternate ways of shopping for customers in store.*
+
+This is also the concept me and Stefan presented our [First demo](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) at our first demo. We also Thought it would've been interesting to keep in a navigational aspect in the presentation [story board](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z). We stopped focusing on this due to the change in concept focus.
+
+After the presentation we did a [Retrospective](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) in which we outlined our next sprint goal as well as problems within the group and how we can achieve positive change.
+
+During sprint 2 we tried focusing on Strengthening our concept and realizing an interactive demo. 
+
+Based on our concept a smaller group (me included) started to define questions we'd need answers to to strengthen our concept. we decided to spend time on the following:
+
+- How can we personalize the in-store shopping experience?
+
+- [What Technology should we use to implement our concept?](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+
+- How do we persuade shoppers to buy additional products?
+
+Answers to these questions would not only strengthen our concept, but also prove to be useful for information gathering. After having done the "[What Technology should we use to implement our concept?](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)" literature  and available product research, Me and my group mates came together to discus our findings and define our requirements ([Defining our concept and impact](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)).
+
+During this sprint we also started working on interactive prototypes. we started of by researching, creating designs, refining them into prototypes, and repeating [this process](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z).
+
+
+
+<br/>
+<br/>
+<br/>
 
 #START OLD VISION<br/>
 My personal vision has become more solid throughout this project. My 2 previous projects mainly focused on satirization of technologies or subjects (automation and laziness). This client project took a different turn however. Our client showed us some really cool current and past project they worked on. A lot of their project focused on creating interactive in-store experiences that either mimic online shopping features or creating completely new solutions. I really liked the potential of these projects and the results. The Interactive Porche experience is a really cool solution for instance. 
@@ -63,7 +102,15 @@ Based on our concept we started to define questions we'd need answers to to stre
 Answers to these questions would not only strengthen our concept, but also prove to be useful for information gathering. After having done the "[What Technology should we use to implement our concept?](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)" research, Me and my group mates came together to discus our findings and define our requirements ([Defining our concept and impact](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)).
 
 #### Deliverables
-[value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+[first brainstorm](../Media/Client%20Project/initial%20brainstorm.jpg)
+
+[Concept board](../Media/Client%20Project/Conceptboard%20version%204.png) *impact quote*
+
+[value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Modified existing one to be more relevant to concept*
+
+[Story board](../Media/Client%20Project/storyboard.png) *Refined concept into user interaction, not visualizing*
+
+[Story board whiteboard](../Media/Client%20Project/user%20experience%20story.jpg) *Pre graphical storyboard*
 
 [Defining our concept and impact](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
@@ -76,7 +123,9 @@ Answers to these questions would not only strengthen our concept, but also prove
 
 
 #### Deliverables
+[value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
+[design protoype development](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
 ### Prototypes
 *You collaboratively realize and test a series of prototypes and its potential, for both users and stakeholders, in real-world application.*
@@ -86,9 +135,20 @@ Answers to these questions would not only strengthen our concept, but also prove
 
 #### Deliverables
 
+[design protoype development](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+
+[value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
 ### Present
 *You present your research outcomes, prototypes and reflections in relation to your research, concept and vision, to stakeholders, peers and potential future employers.*
 
+#### Deliverables
+[First demo](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+
 ### Personal growth
 *You articulate your professional ambitions and focus and demonstrate your efforts and growth within the roles you fulfill in your projects.*
+
+#### Deliverables 
+[Retrospective S1](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+
+#### Unsorted deliverables
