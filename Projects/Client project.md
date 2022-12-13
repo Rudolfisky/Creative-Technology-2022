@@ -35,9 +35,7 @@ Based on our concept a smaller group (me included) started to define questions w
 
 Answers to these questions would not only strengthen our concept, but also prove to be useful for information gathering. After having done the "[What Technology should we use to implement our concept?](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)" literature  and available product research, Me and my group mates came together to discus our findings and define our requirements ([Defining our concept and impact](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)).
 
-During this sprint we also started working on interactive prototypes. we started of by researching, creating designs, refining them into prototypes, and repeating [this process](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z).
-
-
+During this sprint we also started working on interactive prototypes. We started of by researching, creating designs, refining them into prototypes, and repeating [this process](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z). I focused on creating an intuitive way to access the scanning functionality. Whilst testing, I did some testing regarding the "contextual awareness" idea GJ brought up. I tested this at the start of my second prototypes user tests. Every tester was excited about this idea, maybe even more so then the actual concept.
 
 <br/>
 <br/>
@@ -59,7 +57,7 @@ Based on the feedback that we should focus more on jumbo's gains, we modified ou
 ## Learning outcomes
 The things that directly impact my learning outcomes summed up.
 
-### Vision
+### [Vision](../Learning%20Outcomes/1%20Vision.md)
 *You express your own vision on future scenarios through research of the evolution of mankind’s relationship with technology.*
 
 #### Process
@@ -69,15 +67,15 @@ This project we worked on creating a positive costumer in-store interactive expe
 
 ![Porche Interactive experience](../Media/Client%20Project/Porche%20IE.jpg)
 
-This First Impression project shows of really well what I mean. I believe that stores could greatly profit from making an webstore activity, like customizing a car, one you could do in a physical store. Not only does this add value, but it will create more costumer-brand loyalty.
+This First Impression project (Client project) is a great example of my personal vision. I believe that stores could greatly profit from making an webstore activity, like customizing a car, one you could do in a physical store. Not only does this add value, but it will create more costumer-brand loyalty.
 
-In the future I hope to see many more interactive in-store empierces (and maybe even work on them). In an ideal world, each store would have interactive solutions to help the costumer select product like cars, pants or even perfume.
+In the future I hope to see many more interactive in-store experiences (and maybe even work on them). In an ideal world, each store would have interactive solutions to help the customer select product like cars, pants or even perfume.
 
 #### Deliverables
 
+<hr/>
 
-
-### Innovative concept
+### [Innovative concept](../Learning%20Outcomes/2%20Innovative%20concept.md)
 *You discover and define an innovative concept using creative thinking techniques combined with research of technology, context and human.*
 
 #### Process
@@ -116,7 +114,9 @@ Answers to these questions would not only strengthen our concept, but also prove
 
 [What Technology should we use to implement our concept](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
-### Interactive user experience
+<hr/>
+
+### [Interactive user experience](../Learning%20Outcomes/3%20Interactive%20user%20experience.md)
 *You design an experimental interactive user experience that investigates a technology’s potential and its mutual effect on people.*
 
 #### Process
@@ -125,9 +125,11 @@ Answers to these questions would not only strengthen our concept, but also prove
 #### Deliverables
 [value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
-[design protoype development](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+[design prototype development](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
-### Prototypes
+<hr/>
+
+### [Prototypes](../Learning%20Outcomes/4%20Prototype.md)
 *You collaboratively realize and test a series of prototypes and its potential, for both users and stakeholders, in real-world application.*
 
 #### Process
@@ -135,20 +137,31 @@ Answers to these questions would not only strengthen our concept, but also prove
 
 #### Deliverables
 
-[design protoype development](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+[design prototype development](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
 [value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
-### Present
+<hr/> 
+
+### [Present](../Learning%20Outcomes/5%20Present.md)
+
 *You present your research outcomes, prototypes and reflections in relation to your research, concept and vision, to stakeholders, peers and potential future employers.*
 
 #### Deliverables
 [First demo](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
-### Personal growth
+<hr/>
+
+### [Personal growth](../Learning%20Outcomes/6%20Personal%20growth.md)
 *You articulate your professional ambitions and focus and demonstrate your efforts and growth within the roles you fulfill in your projects.*
 
 #### Deliverables 
 [Retrospective S1](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
 #### Unsorted deliverables
+
+
+
+#  notes
+Meike zegt dat ik me meer moet focusen op het beschrijven van leer procesen in mijn protfolio. ik kan bijv beschrijven waarom dat Stefans proto beter is dan die van mij en waarom dat ik dat vindt.
+ook kan ik met meer focusen bij onderzoek/proto op minder specifieke dingen uit te werken, dat kan een bredere proto op leveren.
