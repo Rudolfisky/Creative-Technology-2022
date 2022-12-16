@@ -1,13 +1,13 @@
 ![Jumbo banner](../Media/Client%20Project/jumbo%20banner.jpg)
 # Innovative in-store jumbo experience
 
-Simple intro to project
+This project is the a client project for First Impression(FI). We were tasked with creating a interactive in-store user experience.
 
 ## Process
 
 This project started out with a lot of ideation. after brainstorming a bunch of different Technologies and idea's
 
-![first brainstorm](../Media/Client%20Project/initial%20brainstorm.jpg)
+![first brainstorm](../Media/Client%20Project/initial%20brainstorm%20%20no%20GJ.jpg)
 
 After this initial brainstorm, we decided to do research on the following subjects:
 -   Navigation within jumbo
@@ -35,24 +35,13 @@ Based on our concept a smaller group (me included) started to define questions w
 
 Answers to these questions would not only strengthen our concept, but also prove to be useful for information gathering. After having done the "[What Technology should we use to implement our concept?](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)" literature  and available product research, Me and my group mates came together to discus our findings and define our requirements ([Defining our concept and impact](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)).
 
-During this sprint we also started working on interactive prototypes. We started of by researching, creating designs, refining them into prototypes, and repeating [this process](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z). I focused on creating an intuitive way to access the scanning functionality. Whilst testing, I did some testing regarding the "contextual awareness" idea GJ brought up. I tested this at the start of my second prototypes user tests. Every tester was excited about this idea, maybe even more so then the actual concept.
+During this sprint we also started working on interactive prototypes. We started of by researching, creating designs, refining them into prototypes, and repeating [this process](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z). I focused on creating an intuitive way to access the scanning functionality. Whilst testing, I did some testing regarding the "contextual awareness" idea GJ brought up. I tested this at the start of my [second prototype](https://www.figma.com/file/mfSndr4DXEdiwT20qK9E4Z/Jumbo-app-proto-1?node-id=0%3A1&t=hQtjfRUIkhsC8hD1-0)s user tests. Every tester was excited about this idea, maybe even more so then the actual concept.
 
-<br/>
-<br/>
-<br/>
+Others from the group where also focusing on designing parts of our concept. I contrast to my peers, focused on how the user wants to interact with the scanner whilst my peers focused on iterating recommendation systems.
 
-#START OLD VISION<br/>
-My personal vision has become more solid throughout this project. My 2 previous projects mainly focused on satirization of technologies or subjects (automation and laziness). This client project took a different turn however. Our client showed us some really cool current and past project they worked on. A lot of their project focused on creating interactive in-store experiences that either mimic online shopping features or creating completely new solutions. I really liked the potential of these projects and the results. The Interactive Porche experience is a really cool solution for instance. 
+During the final week of Sprint 2 things got a bit more hectic. We started working on a [interactive demo](https://www.figma.com/file/5PxU9PetiykBcUj1u8ToSW/Interactive-Demo?node-id=75%3A429&t=vB9owuHeVEm0bTxH-0) and a infograph to help us present our sprint deliveries. This process made me stress a bit due to time related pressure due to the busy week (portfolio and sprint 2 deliveries).
 
-![Porche Interactive experience](../Media/Client%20Project/Porche%20IE.jpg)
-
-This experience was made to give Porche costumers an interactive car customization experience in-store creating upselling of car modifications.
-
-Initially we started with our client project from the perspective of the shoppers. This meant that we completely forgot to include the value our solution would create for the Jumbo as a company. We had to shift our project to include the promotion of products the jumbo wanted the costumer to buy.
-
-This shift in direction didn't sit well with me however. Although I do understand the fact that we needed to create value for the Jumbo, I also feel wrong advertising products to costumers with jumbos interest in mind (opposed to the costumers).
-
-Based on the feedback that we should focus more on jumbo's gains, we modified our [value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) to include more gains for the Jumbo (like upselling).
+After the 2nd sprint delivery we realized we needed to head into a different direction with the project. 
 
 ## Learning outcomes
 The things that directly impact my learning outcomes summed up.
@@ -78,27 +67,6 @@ In the future I hope to see many more interactive in-store experiences (and mayb
 ### [Innovative concept](../Learning%20Outcomes/2%20Innovative%20concept.md)
 *You discover and define an innovative concept using creative thinking techniques combined with research of technology, context and human.*
 
-#### Process
-![first brainstorm](../Media/Client%20Project/initial%20brainstorm.jpg)
-
-After our team's first brainstorm session, we decided to look into certain technologies and themes that we could focus on during this project.
-
-Initially we focused on one specific impact:
-
-*Create awareness for alternate ways of shopping for customers in store.*
-
-This Impact we'd attempt to achieve by recommending in-store shoppers products that are either more relevant to them then the ones they are thinking of buying, or by showing alternate products and their differences (cheaper, healthier, and or climate impact). After communicating this concept to the product owner and teacher, we got asked to focus on a specific target group, like Vegans.
-
-Based on our concept we started to define questions we'd need answers to to strengthen our concept. we decided to spend time on the following:
-
-- How can we personalize the in-store shopping experience?
-
-- [What Technology should we use to implement our concept?](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
-
-- How do we persuade shoppers to buy additional products?
-
-Answers to these questions would not only strengthen our concept, but also prove to be useful for information gathering. After having done the "[What Technology should we use to implement our concept?](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)" research, Me and my group mates came together to discus our findings and define our requirements ([Defining our concept and impact](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)).
-
 #### Deliverables
 [first brainstorm](../Media/Client%20Project/initial%20brainstorm.jpg)
 
@@ -114,6 +82,8 @@ Answers to these questions would not only strengthen our concept, but also prove
 
 [What Technology should we use to implement our concept](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
+[Design iteration 2](https://www.figma.com/file/mfSndr4DXEdiwT20qK9E4Z/Jumbo-app-proto-1?node-id=0%3A1&t=hQtjfRUIkhsC8hD1-0)
+
 <hr/>
 
 ### [Interactive user experience](../Learning%20Outcomes/3%20Interactive%20user%20experience.md)
@@ -126,6 +96,10 @@ Answers to these questions would not only strengthen our concept, but also prove
 [value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
 [design prototype development](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+
+[Design iteration 2](https://www.figma.com/file/mfSndr4DXEdiwT20qK9E4Z/Jumbo-app-proto-1?node-id=0%3A1&t=hQtjfRUIkhsC8hD1-0)
+
+[Interactive demo S2](https://www.figma.com/file/5PxU9PetiykBcUj1u8ToSW/Interactive-Demo?node-id=75%3A429&t=vB9owuHeVEm0bTxH-0)
 
 <hr/>
 
@@ -141,6 +115,11 @@ Answers to these questions would not only strengthen our concept, but also prove
 
 [value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
+[Design iteration 2](https://www.figma.com/file/mfSndr4DXEdiwT20qK9E4Z/Jumbo-app-proto-1?node-id=0%3A1&t=hQtjfRUIkhsC8hD1-0)
+
+[Interactive demo S2](https://www.figma.com/file/5PxU9PetiykBcUj1u8ToSW/Interactive-Demo?node-id=75%3A429&t=vB9owuHeVEm0bTxH-0)
+
+
 <hr/> 
 
 ### [Present](../Learning%20Outcomes/5%20Present.md)
@@ -149,6 +128,8 @@ Answers to these questions would not only strengthen our concept, but also prove
 
 #### Deliverables
 [First demo](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+
+[second demo](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)*Ruben part*
 
 <hr/>
 
