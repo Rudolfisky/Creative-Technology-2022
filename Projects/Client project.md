@@ -49,7 +49,7 @@ The things that directly impact my learning outcomes summed up.
 ### [Vision](../Learning%20Outcomes/1%20Vision.md)
 *You express your own vision on future scenarios through research of the evolution of mankind’s relationship with technology.*
 
-#### Process
+<!-- #### Process
 My personal vision on this project, future, and product owner.
 
 This project we worked on creating a positive costumer in-store interactive experience whilst also adding value for the jumbo. I personally really love the idea of creating interactive in-store experiences that are either based on existing online store features or add a completely new experience that is only available in-store.
@@ -58,9 +58,7 @@ This project we worked on creating a positive costumer in-store interactive expe
 
 This First Impression project (Client project) is a great example of my personal vision. I believe that stores could greatly profit from making an webstore activity, like customizing a car, one you could do in a physical store. Not only does this add value, but it will create more costumer-brand loyalty.
 
-In the future I hope to see many more interactive in-store experiences (and maybe even work on them). In an ideal world, each store would have interactive solutions to help the customer select product like cars, pants or even perfume.
-
-#### Deliverables
+In the future I hope to see many more interactive in-store experiences (and maybe even work on them). In an ideal world, each store would have interactive solutions to help the customer select product like cars, pants or even perfume. -->
 
 <hr/>
 
