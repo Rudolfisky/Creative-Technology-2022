@@ -80,7 +80,7 @@ In the future I hope to see many more interactive in-store experiences (and mayb
 
 [Defining our concept and impact](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
-[What Technology should we use to implement our concept](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+[What Technology should we use to implement our concept](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *researching scanner carts, and final conclusion.*
 
 [Design iteration 2](https://www.figma.com/file/mfSndr4DXEdiwT20qK9E4Z/Jumbo-app-proto-1?node-id=0%3A1&t=hQtjfRUIkhsC8hD1-0)
 
@@ -99,21 +99,18 @@ In the future I hope to see many more interactive in-store experiences (and mayb
 
 [Design iteration 2](https://www.figma.com/file/mfSndr4DXEdiwT20qK9E4Z/Jumbo-app-proto-1?node-id=0%3A1&t=hQtjfRUIkhsC8hD1-0)
 
-[Interactive demo S2](https://www.figma.com/file/5PxU9PetiykBcUj1u8ToSW/Interactive-Demo?node-id=75%3A429&t=vB9owuHeVEm0bTxH-0)
+[Interactive demo S2](https://www.figma.com/file/5PxU9PetiykBcUj1u8ToSW/Interactive-Demo?node-id=75%3A429&t=vB9owuHeVEm0bTxH-0) *combined Kim's design, the contextual awareness idea, and a user scenario into a interactive demo for our delivery*
 
 <hr/>
 
 ### [Prototypes](../Learning%20Outcomes/4%20Prototype.md)
 *You collaboratively realize and test a series of prototypes and its potential, for both users and stakeholders, in real-world application.*
 
-#### Process
-
-
 #### Deliverables
 
-[design prototype development](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+[Design prototype development](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
-[value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+[Value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
 [Design iteration 2](https://www.figma.com/file/mfSndr4DXEdiwT20qK9E4Z/Jumbo-app-proto-1?node-id=0%3A1&t=hQtjfRUIkhsC8hD1-0)
 
@@ -138,11 +135,3 @@ In the future I hope to see many more interactive in-store experiences (and mayb
 
 #### Deliverables 
 [Retrospective S1](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
-
-#### Unsorted deliverables
-
-
-
-#  notes
-Meike zegt dat ik me meer moet focusen op het beschrijven van leer procesen in mijn protfolio. ik kan bijv beschrijven waarom dat Stefans proto beter is dan die van mij en waarom dat ik dat vindt.
-ook kan ik met meer focusen bij onderzoek/proto op minder specifieke dingen uit te werken, dat kan een bredere proto op leveren.

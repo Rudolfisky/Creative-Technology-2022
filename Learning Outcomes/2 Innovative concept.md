@@ -1,35 +1,101 @@
+maak het makelijk te lezen
+
 # Criterion Long Description
 **You discover and define an innovative concept using creative thinking techniques combined with research of technology, context and human.**
 
-**Discover** = gain insights through preliminary research (also see ‘Research of ...’)
+<hr/>
 
-**Define** = critical evaluation of a variety of concepts
+## Discover
+*gain insights through preliminary research (also see ‘Research of ...’)*
 
-**Innovative** = featuring something new, different and/or better
 
-**Concept** = a clear statement, vision and strategy, i.e. on a potential application of a certain technology
+### [What Technology should we use to implement our concept?](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+I did a available product research on existing "scanner cart" solutions. This gave me the insight that they not exist, but are being tested by Jumbo.
 
-**Using creative thinking techniques** = critical and creative thinking as a process towards innovation
-Research of...
 
-**technology** = explore distinctive threats & opportunities, failures & success, i.e. from literature, through experiments, etc.
-
-**context** = understand chances and limits, i.e. spatial, temporal, physical, cultural, societal, ethical, etc.
-
-**human** = understand cognitive mechanisms in relation to human behavior, decision making and needs.
+### [Design prototype development](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+I a available product research on existing mobile scanner solutions. The insight I gained from that app was that an existing solution not only has multiple points of accessing the self scan feature. I feel more preliminary research into more excising solutions could've helped strengthen my insight. And  also feel that this research on the scanner design took too long considering the desired outcome.
 
 <hr/>
 
-# This semester
+## Define 
+*critical evaluation of a variety of concepts*
 
-For my first project I came up with a concept pretty quickly. What I didn't do, is properly define my concept or do preliminary research on my concept. This led to a very poor learning experience.
+### [Main project Repo page](https://github.com/Rudolfisky/ALND) *duo*
+In our duo project, we had to decide on a concept we wanted to work on. based on both of our visions we decided to continue working on something that makes a statement by ridiculizing the concept of laziness.
 
-During the Duo project I decided to at least document my impact and concept on the main project page. A part from that I also decided to test out user interaction in the form of a A/B user tests. The result was surprising, but we ignored the result. We realized that one of the tested options was a better fit simply because it fits better with the targeted impact, making the tests useless. 
+### [What Technology should we use to implement our concept?](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+After researching existing solutions for the "scanner cart" me and my team compared the results to hand scanners and mobile scanners. I concluded that we should continue working on a mobile solution based on future potential. Adding value to the jumbo app would help gain more app users and would generate more value to future in-app solutions. The "scanner cart" was a too expansive solution and the hands canner lacked data gathering potential/ processing power.
 
+### [Design prototype development](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+Based on my mobile scanner research I wanted to test possible ways the user could access self scanning options. For the first iteration I tried to mimic the AH app. After testing I realized that the basket solution wasn't executed properly due to users being unable to clearly navigate to said solution in my user tests. 
 
-![brainstorm](../Media/Client%20Project/initial%20brainstorm%20%20no%20GJ.jpg)
+<hr/>
 
-During my Client project I wanted to learn from my past shortcomings. I started of with brainstorming a bunch of different ideas with the group, seeing which ones we should focus on, and then doing research on those. I took part in our concept research later on. After refining our impact into a more solid concept we wanted to setup research questions surrounding those uncertainties. I took part in researching the possible technologies we could use in order to implement our solution and which one would be a better fit by comparing them. Based on this research and feedback form product owners we decided to focus on a mobile application. Afterwards we all came together to discuss our findings and revisit our concept and strengthen it.
+## Innovative
+*featuring something new, different and/or better*
+
+### [Main project Repo page](https://github.com/Rudolfisky/ALND) *Duo*
+This project was made to make onlookers think about the effects technology could have on society. Although our execution wasn't really innovative, the approach to the concept still has some innovative value. 
+
+### [Defining our concept and impact](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+We tried to help jumbo shoppers by presenting them with alternatives to products whilst they where shopping. 
+
+NOTES: Contextual awareness
+
+<hr/>
+
+## Concept 
+*a clear statement, vision and strategy, i.e. on a potential application of a certain technology*
+
+### [Main project Repo page](https://github.com/Rudolfisky/ALND) *Duo*
+We decided on an concept to implement our impact and used requirements to declare our strategy.
+
+### [Defining our concept and impact](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+During my client project, we made a clear statement on what our concept should be and what we wanted to achieve using our concept using the MOSCOW method (requirements).
+
+<hr/>
+
+## Using creative thinking techniques
+*critical and creative thinking as a process towards innovation research of...*
+
+### Brainstorm *Duo*
+At the start of the duo project we focused on generating a bunch of ideas.
+
+### [Brainstorm mind map](../Media/Client%20Project/initial%20brainstorm%20%20no%20GJ.jpg) *Client*
+Using brainstorming we came up with a bunch of technologies and directions we could focus our preliminary research on writing down a bunch of ideas on a mind map. This technique helped us put ideas into perspective (Technologies, concepts, problems).
+
+<hr/>
+
+## Technology 
+*explore distinctive threats & opportunities, failures & success, i.e. from literature, through experiments, etc.*
+
+### [Shooting mechanism](https://github.com/Rudolfisky/ALND/blob/main/Research/Shooting%20Mechanism.md) *Duo*
+I looked into existing methods of propulsion like hydraulics, spring powered, and pneumatics and drew the conclusion that a spring powered solution would be easier to realize as well as provide the possibility of automation in the future. This research could've been done earlier and would've saved time on iteration the first 2 prototypes.
+
+### [What Technology should we use to implement our concept?](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+I looked into existing "cart scanners" and their pro's and con's. I realized that they were a powerful solution, but also an expensive one.
+
+<hr/>
+
+## Context
+*understand chances and limits, i.e. spatial, temporal, physical, cultural, societal, ethical, etc.*
+
+### [Defining our concept and impact](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+Defining value for jumbo created perspective on what we can do to make the project attractive for the Jumbo
+
+### [Value proposition](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+Creating a value proposition for our concept put our projects value into perspective.
+
+<hr/>
+
+## Human
+*understand cognitive mechanisms in relation to human behavior, decision making and needs.*
+
+NOTES: wat mensen fijn vinden om te doen
+
+<hr/>
+
 
 # Deliverables
 ## [Solo](../Projects/David%20and%20Goliath.md)
@@ -42,11 +108,13 @@ During my Client project I wanted to learn from my past shortcomings. I started 
 
 [main project Repo page](https://github.com/Rudolfisky/ALND)
 
+[Shooting mechanism](https://github.com/Rudolfisky/ALND/blob/main/Research/Shooting%20Mechanism.md)
+
 <hr/>
 
 ## [Client](../Projects/Client%20project.md)
 
-[first brainstorm](../Media/Client%20Project/initial%20brainstorm.jpg)
+[first brainstorm mind map](../Media/Client%20Project/initial%20brainstorm.jpg)
 
 [Concept board](../Media/Client%20Project/Conceptboard%20version%204.png) *impact quote*
 
@@ -58,4 +126,6 @@ During my Client project I wanted to learn from my past shortcomings. I started 
 
 [Defining our concept and impact](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
-[What Technology should we use to implement our concept](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+[What Technology should we use to implement our concept?](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)*researching scanner carts, and final conclusion.*
+
+[design prototype development](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
