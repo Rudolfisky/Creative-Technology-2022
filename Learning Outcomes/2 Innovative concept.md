@@ -92,7 +92,7 @@ Creating a value proposition for our concept put our projects value into perspec
 ## Human
 *understand cognitive mechanisms in relation to human behavior, decision making and needs.*
 
-NOTES: wat mensen fijn vinden om te doen
+
 
 <hr/>
 
