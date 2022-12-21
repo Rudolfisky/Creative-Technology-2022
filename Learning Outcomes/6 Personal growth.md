@@ -23,7 +23,7 @@ If I could re-spend the time i spend on these prototypes, I would spend a lot le
 I want to try and focus more on simple solutions to problems and think more about the extend that certain things need to be developed.
 
 ### Too present in conversations
-I have a tendency to use a lot of words very fast. I'm also very quick to present my opinion on subjects. This proves to be a bit of a problem in general. In the group project I tried to steer the group in directions by being infront of the whiteboard most of the time. But by placing myself in this position, I started drowning out other, more quite, group members. 
+I have a tendency to use a lot of words very fast. I'm also very quick to present my opinion on subjects. This proves to be a bit of a problem in general. In the group project I tried to steer the group in directions by being in front of the whiteboard most of the time. But by placing myself in this position, I started drowning out other, more quite, group members. 
 
 I talked to some other group members that seem to have similar problems in order to try and create a environment where everyone can participate in relevant conversations. 
 
