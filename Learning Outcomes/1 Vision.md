@@ -12,6 +12,17 @@ Vision on future scenarios = your well-informed perspective on possible future s
 # Progress
 During my Solo and Duo projects I wanted to create an impact by using a satirical approach to subject like automation or laziness via technology. 
 
+![DG vision board](../Media/vision%20board.jpg)
+
+My first project I focused on making people question automation via a funny, satirical project I called David and goliath(i came up with the name when making concept art)
+
+![DG concept art](../Media/concept%20art%20DG.jpg)
+
+A useless box makes people laugh because of it's near meaningless functionality and user interaction.
+Using the concept of a useless box and automating that procedure via another useless box would remove the user interaction part making it even more useless (and maybe funny). But the main focus was on impacting the way people view automation. Automation is a great tool, but by removing the human aspect one can also remove core futures, experiences.
+
+<!-- whats the effect van tech gebruiken om impact te maken: satirisch. gebruik userstories -->
+
 ![Porche Interactive experience](../Media/Client%20Project/Porche%20IE.jpg)
 During the client project, I fell in love with our predict owners, First Impression, vision on Phygital(physicals and digital) in-store solutions. 
 
