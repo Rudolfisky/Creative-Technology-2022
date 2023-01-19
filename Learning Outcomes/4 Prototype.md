@@ -6,8 +6,11 @@
 ## Realize 
 *combine hardware and software based on functional and user requirements, i.e. using appropriate sensors, actuators, logic components, computing platform, protocols, software libraries, etc. resulting in your own software running on your own hardware setup*
 
-## [Making the arm](../Projects/David%20and%20Goliath.md) *Solo*
+### [Making the arm](../Projects/David%20and%20Goliath.md) *Solo*
 Making the arm required hardware in the form of servos, a switch, and a micro controller and an piece software to control the servo and read the switch state.
+
+### [Screen component](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+for this component I relapsed a set of POC and a set of prototypes based on requirements.
 
 <hr/>
 
@@ -19,6 +22,9 @@ I made iterations that should've progressed from low to high fidelity. The probl
 
 ### [Design prototype development](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z), [Design iteration 2](https://www.figma.com/file/mfSndr4DXEdiwT20qK9E4Z/Jumbo-app-proto-1?node-id=0%3A1&t=hQtjfRUIkhsC8hD1-0), and [Interactive demo S2](https://www.figma.com/file/5PxU9PetiykBcUj1u8ToSW/Interactive-Demo?node-id=75%3A429&t=vB9owuHeVEm0bTxH-0) *Client*
 I iterated my design multiple times upon research and user feedback (from user testing). In retrospect, I feel that the scanner location on the app I was working on shouldn't have been focused on as much as I did. I also could've started making paper prototypes in order to get a better initial feel for the Figma prototypes.
+
+### [Screen component](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+for this component I relapsed a set of POC and a set of prototypes based on requirements.
 
 <hr/>
 
@@ -36,6 +42,9 @@ This project was tested via user tests. The first iteration was tested via setti
 the second prototype focused on a second set of iterations based on the previous test outcomes. this was test by showing a user all possible iterations and asking them how they feel about the iterations.
 The final result got processed into a Interactive demo that was presented to the stakeholders in order to get their feedback.
 
+
+### [Screen component](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+For both prototypes made for this project had predefined tests and tested to see if the results met the result requirements. I Think I could have done a better job at setting the requirements for each prototype as well as defining the tests, but the process did help me get a good focus on what I should work towards.
 
 # Deliverables
 ## [Solo](../Projects/David%20and%20Goliath.md)
@@ -61,3 +70,5 @@ The final result got processed into a Interactive demo that was presented to the
 [Design iteration 2](https://www.figma.com/file/mfSndr4DXEdiwT20qK9E4Z/Jumbo-app-proto-1?node-id=0%3A1&t=hQtjfRUIkhsC8hD1-0)
 
 [Interactive demo S2](https://www.figma.com/file/5PxU9PetiykBcUj1u8ToSW/Interactive-Demo?node-id=75%3A429&t=vB9owuHeVEm0bTxH-0)
+
+[Screen component](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)

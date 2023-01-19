@@ -76,6 +76,9 @@ I looked into existing methods of propulsion like hydraulics, spring powered, an
 ### [What Technology should we use to implement our concept?](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
 I looked into existing "cart scanners" and their pro's and con's. I realized that they were a powerful solution, but also an expensive one.
 
+### [Screen component](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+
+
 <hr/>
 
 ## Context

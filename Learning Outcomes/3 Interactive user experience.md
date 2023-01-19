@@ -15,6 +15,9 @@ I continually created iterations of the my scanner design using pre-detriment it
 ### [Story board](../Media/Client%20Project/storyboard.png), [Story board whiteboard](../Media/Client%20Project/user%20experience%20story.jpg) *Client*
 In this process I worked on defining a user story that would present our concept. We left in the extra idea of navigation and presented the whole story board to the clients in order to get feedback and convey our idea. 
 
+### [Screen component](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+During this process I created multiple POC based on a set of approved requirements and combined them into an working and tested prototype.
+
 <hr/>
 
 ## Interactive user experience 
@@ -25,6 +28,9 @@ During our demo of the Duo project we created a setup that would match the users
 
 ### [Interactive demo S2](https://www.figma.com/file/5PxU9PetiykBcUj1u8ToSW/Interactive-Demo?node-id=75%3A429&t=vB9owuHeVEm0bTxH-0) *Client*
 For our sprint 2 delivery I worked on creating a interactive demo the client could walkthrough in order to experience what a more functional prototype could achieve.
+
+### [Screen component](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
+For the second prototype I worked on integrating sensors made by group mates. The data from the sensors was converted into visible data like showing the product info when a product is picked up or changing he buddy's onscreen location based on the shoppers location.
 
 <hr/>
 
@@ -57,3 +63,5 @@ For our sprint 2 delivery I worked on creating a interactive demo the client cou
 [Design iteration 2](https://www.figma.com/file/mfSndr4DXEdiwT20qK9E4Z/Jumbo-app-proto-1?node-id=0%3A1&t=hQtjfRUIkhsC8hD1-0)
 
 [Interactive demo S2](https://www.figma.com/file/5PxU9PetiykBcUj1u8ToSW/Interactive-Demo?node-id=75%3A429&t=vB9owuHeVEm0bTxH-0) *combined Kim's design, the contextual awareness idea, and a user scenario into a interactive demo for our delivery*
+
+[Screen component](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)

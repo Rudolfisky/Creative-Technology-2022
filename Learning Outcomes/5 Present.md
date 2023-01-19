@@ -18,6 +18,13 @@ During the final demo presentation of the duo project, me and Rik focused on pre
 ### [Client portfolio](../Projects/Client%20project.md) *Client*
 As I'm writing this, I can safely say I've asked feedback for almost every idea I had on how to write the portfolio. I focused on making a logbook oriented towards explaining the projects process whilst talking about more personal aspects in dedicated learning outcome files (like this one). Hope it's better :)
 
+### [Final demo](../Media/Client%20Project/final%20demo.jpg) *Client*
+![Final demo](../Media/Client%20Project/final%20demo.jpg)
+
+The final demo was incredibly fun and informative. We had a lot of fun setting everything up and enjoyed presenting our project to our project owners, teachers and other students. We were incredibly happy to see other people be interested in our project and our results.
+
+If we focused on this idea earlier in the concepting phase we could have achieved a lot more, but despite that I still feel like we presented our idea in a way that clearly presented our concept.
+
 <hr/>
 
 ## Research outcomes
@@ -27,7 +34,7 @@ As I'm writing this, I can safely say I've asked feedback for almost every idea 
 During the first Sprint delivery I presented our concept and walked through the Storyboard.
 
 ### [Second demo](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *Client*
-In this demo I presented my findings of my scanner location research on both first and second iterations as well as the contextual awareness part I tested. I finished my part by presenting an interactive demo that includes some of mine and Kim's research results
+In this demo I presented my findings of my scanner location research on both first and second iterations as well as the contextual awareness part I tested. I finished my part by presenting an interactive demo that includes some of mine and Kim's research results.
 
 <hr/>
 
@@ -56,3 +63,5 @@ Check [personal growth](./6%20Personal%20growth.md) for reflections.
 [First demo](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
 [Second demo](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)*Ruben part*
+
+[Final demo](../Media/Client%20Project/final%20demo.jpg)

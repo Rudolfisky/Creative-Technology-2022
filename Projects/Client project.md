@@ -41,7 +41,19 @@ Others from the group where also focusing on designing parts of our concept. I c
 
 During the final week of Sprint 2 things got a bit more hectic. We started working on a [interactive demo](https://www.figma.com/file/5PxU9PetiykBcUj1u8ToSW/Interactive-Demo?node-id=75%3A429&t=vB9owuHeVEm0bTxH-0) and a infograph to help us present our sprint deliveries. This process made me stress a bit due to time related pressure due to the busy week (portfolio and sprint 2 deliveries).
 
-After the 2nd sprint delivery we realized we needed to head into a different direction with the project. 
+After the 2nd sprint delivery we realized we needed to head into a different direction with the project. We then came up with the idea to work on a buddy guidance system using over the shelf displays and a mobile app to show off personalization features.
+
+![Story board buddy whiteboard](../Media/Client%20Project/user%20experience%20story%202.jpg)
+
+For this concept I'd mainly be focusing on the screen part and the software which would show the users the buddy on the shelf screens. 
+
+I started of by [defining](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) a Minimal lovable product and defining which steps of the user story were relevant to the my component. This information would then help me create a set of requirements on which I could focus on and ask for feedback on from both teachers and our appointed creative director (Stefan). After that I would define my my [first prototype](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) and what the requirements of the prototype should be. 
+
+The first prototype should be a collection of all of the must requirements from the requirements list, since these were all required for the MLP. The first prototype was a collection simple processing POC projects that each solved one of the requirements. The [second prototype](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) was integrating the hardware of the Shopper tracker component (Ask) and Product sensor (Stefan).
+
+![Final demo](../Media/Client%20Project/final%20demo.jpg)
+
+The final demo went incredibly well. We a great demo setup, great jumbo ascetics and a bunch of empty bottles (Thanks to [Soos Plock](http://www.plock.nl)) to create Jumbo TQ. many people showed great interest in our project and saw a lot of value in our direction.
 
 ## Learning outcomes
 The things that directly impact my learning outcomes summed up.
@@ -76,18 +88,22 @@ In the future I hope to see many more interactive in-store experiences (and mayb
 
 [Story board whiteboard](../Media/Client%20Project/user%20experience%20story.jpg) *Pre graphical storyboard*
 
+[Story board buddy whiteboard](../Media/Client%20Project/user%20experience%20story%202.jpg)
+
 [Defining our concept and impact](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
 
 [What Technology should we use to implement our concept](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z) *researching scanner carts, and final conclusion.*
 
 [Design iteration 2](https://www.figma.com/file/mfSndr4DXEdiwT20qK9E4Z/Jumbo-app-proto-1?node-id=0%3A1&t=hQtjfRUIkhsC8hD1-0)
 
+[Final demo](../Media/Client%20Project/final%20demo.jpg)
+
+[Screen component](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+
 <hr/>
 
 ### [Interactive user experience](../Learning%20Outcomes/3%20Interactive%20user%20experience.md)
 *You design an experimental interactive user experience that investigates a technology’s potential and its mutual effect on people.*
-
-#### Process
 
 
 #### Deliverables
@@ -98,6 +114,11 @@ In the future I hope to see many more interactive in-store experiences (and mayb
 [Design iteration 2](https://www.figma.com/file/mfSndr4DXEdiwT20qK9E4Z/Jumbo-app-proto-1?node-id=0%3A1&t=hQtjfRUIkhsC8hD1-0)
 
 [Interactive demo S2](https://www.figma.com/file/5PxU9PetiykBcUj1u8ToSW/Interactive-Demo?node-id=75%3A429&t=vB9owuHeVEm0bTxH-0) *combined Kim's design, the contextual awareness idea, and a user scenario into a interactive demo for our delivery*
+
+[Final demo](../Media/Client%20Project/final%20demo.jpg)
+
+[Screen component](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+
 
 <hr/>
 
@@ -114,6 +135,10 @@ In the future I hope to see many more interactive in-store experiences (and mayb
 
 [Interactive demo S2](https://www.figma.com/file/5PxU9PetiykBcUj1u8ToSW/Interactive-Demo?node-id=75%3A429&t=vB9owuHeVEm0bTxH-0)
 
+[Final demo](../Media/Client%20Project/final%20demo.jpg)
+
+[Screen component](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+
 
 <hr/> 
 
@@ -126,6 +151,8 @@ In the future I hope to see many more interactive in-store experiences (and mayb
 
 [second demo](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)*Ruben part*
 
+[Final demo](../Media/Client%20Project/final%20demo.jpg)
+
 <hr/>
 
 ### [Personal growth](../Learning%20Outcomes/6%20Personal%20growth.md)
@@ -133,3 +160,7 @@ In the future I hope to see many more interactive in-store experiences (and mayb
 
 #### Deliverables 
 [Retrospective S1](https://1drv.ms/u/s!AhghFEyrhlMEkZUgffxx-lcGZYmFyw?e=enbb0z)
+
+
+
+
